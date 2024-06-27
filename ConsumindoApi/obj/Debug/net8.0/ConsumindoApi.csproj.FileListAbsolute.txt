@@ -1,0 +1,14 @@
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.AssemblyInfoInputs.cache
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.AssemblyInfo.cs
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.csproj.CoreCompileInputs.cache
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.exe
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.deps.json
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.runtimeconfig.json
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.dll
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.pdb
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.dll
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\refint\ConsumindoApi.dll
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.pdb
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.genruntimeconfig.cache
+C:\Users\iguma\Documents\Programming\Studies\CSharp\Tests\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ref\ConsumindoApi.dll
